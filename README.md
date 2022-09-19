@@ -1,5 +1,5 @@
 ### Hi there 👋
-Sono Mattia Borsotti, lavoro a scuola da qualche anno e sono fra i giornalisti del Giornale di Segrate. Ho aperto questa pagina per condividere il mio lavoro nella maniera più "smart" possibile. Vi Troverete decine di documenti di Archivio riguardanti i caduti segratesi della Prima Guerra Mondiale, fotografie dell'epoca e inoltre il PDF del saggio che ho scritto sul tema. Tutti i documenti sono liberamente scaricabili. 
+Sono Mattia Borsotti, lavoro a scuola da qualche anno e sono fra i giornalisti del Giornale di Segrate. Ho aperto questa pagina per condividere il mio lavoro nella maniera più "smart" possibile. Vi Troverete decine di documenti di Archivio riguardanti i caduti segratesi della Prima Guerra Mondiale, fotografie dell'epoca e inoltre il PDF del saggio che ho scritto sul tema. Tutti i documenti sono liberamente scaricabili nelle sezioni sottostanti.
 
 <!--
 **ComeDAutunno/comeDAutunno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
