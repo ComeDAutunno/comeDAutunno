@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=comeDAutunno&label=VISITE+AL+PROFILO))
+![](https://komarev.com/ghpvc/?username=comeDAutunno&label=VISITE+AL+PROFILO)
